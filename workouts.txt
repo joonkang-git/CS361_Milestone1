@@ -1,0 +1,14 @@
+{
+    "1": [
+        {
+            "workout_number": 1,
+            "details": "Climbing - 30mins"
+        }
+    ],
+    "2": [
+        {
+            "workout_number": 1,
+            "details": "Squats - 3 - 15 - 140kg"
+        }
+    ]
+}
