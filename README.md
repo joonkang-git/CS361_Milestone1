@@ -25,4 +25,5 @@ Copy and paste http://localhost:5000/fileopener into web browser and text file s
 <img width="847" alt="Screenshot 2024-02-26 204232" src="https://github.com/joonkang-git/CS361_Milestone1/assets/122251818/5f93e878-0985-40a8-a8df-a30b45d4662d">
 
 # UML Sequence Diagram
-<img width="738" alt="Screenshot 2024-02-26 213716" src="https://github.com/joonkang-git/CS361_Milestone1/assets/122251818/20cc833d-1071-4703-88c5-b4cca0501e5e">
+<img width="707" alt="Screenshot 2024-03-11 192238" src="https://github.com/joonkang-git/CS361_Milestone1/assets/122251818/7979dc53-6345-4c8d-b623-b49569b488e6">
+
